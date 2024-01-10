@@ -43,7 +43,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 ---
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/dashboard.png?raw=true">
+  <img width="40%" src="https://github.com/roohaande/ToDoApp/blob/master/appgallery/Home_page-Task-status.jpg">
 </p>
 <p align="center">
 	<b>
@@ -52,23 +52,36 @@ Download project into Github.(or git clone with VCS into Android Studio)
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistcreate.png?raw=true">
+  <img width="40%" src="https://github.com/roohaande/ToDoApp/blob/master/appgallery/Item%20creation-Priority-set.jpg">
 </p>
 <p align="center">
 	<b>
-		Todo List Create Dialog.
+		Item Creation and Priority Set.
 	</b>
 </p>
-	
+
 
 <p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistmultiselection.png?raw=true">
+  <img width="40%" src="https://github.com/roohaande/ToDoApp/blob/master/appgallery/Add-tasks-title-desc-date.jpg">
 </p>
 <p align="center">
 	<b>
-		Todo List Multi Selection Features.
+		Add Tasks with due date, title, and description. 
 	</b>
 </p>
+
+<p align="center">
+  <img width="40%" src="https://github.com/roohaande/ToDoApp/blob/master/appgallery/Categorise-sort.jpg">
+</p>
+<p align="center">
+	<b>
+		Categorise and sort them
+	</b>
+</p>
+
+
+
+
 	
 
 <p align="center">
@@ -80,15 +93,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 	</b>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemcreate.png?raw=true">
-</p>
-<p align="center">
-	<b>
-		Todo List Item Create Dialog.
-	</b>
-</p>
-	
+
 
 <p align="center">
   <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemdetail.png?raw=true">
@@ -100,14 +105,7 @@ Download project into Github.(or git clone with VCS into Android Studio)
 </p>
 	
 
-<p align="center">
-  <img width="40%" src="https://github.com/mustafaynk/todolist/blob/master/appgallery/todolistitemfilter.png?raw=true">
-</p>
-<p align="center">
-	<b>
-		Todo List Item Filter Dialog.
-	</b>
-</p>
+
 	
 
 ### End
